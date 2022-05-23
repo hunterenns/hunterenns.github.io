@@ -5,7 +5,7 @@ body {
 
 .sideinfo {
   height: 100%;
-  width: 12.5%;
+  width: 20%;
   position: fixed;
   z-index: 1;
   top: 0;
@@ -17,9 +17,10 @@ body {
 
 .sideinfo a {
   float: right;
-  padding: 0% 7.5% 3% 50%;
+  padding: 0% 5% 3% 50%;
   text-decoration: none;
   font-size: 1.25em;
+  font-weight: 500;
   color: #f1f1f1;
   display: block;
 }
@@ -30,8 +31,11 @@ body {
 
 .sideinfo h1 {
   font-size: 2em;
+  float: right;
+  font-weight: 500;
+  font-style: italic;
   color: #f1f1f1;
-  text-align: center;
+  padding: 0% 5% 0% 0%;
 }
 
 .sideinfo img {
@@ -43,12 +47,13 @@ body {
 }
 
 .main {
-  margin-left: 12.5%;
+  margin-left: 20%;
   padding: 2%;
+  font-weight: 400;
 }
 
 .pdf {
-  margin-left: 12.5%;
+  margin-left: 20%;
   padding: 2%;
   text-align: center;
 }
