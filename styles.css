@@ -12,14 +12,14 @@ body {
   left: 0;
   background-color: #707070;
   overflow-x: hidden;
-  padding: 0.625% 0;
+  padding: 1% 0;
 }
 
 .sideinfo a {
   float: right;
   padding: 0% 5% 3% 50%;
   text-decoration: none;
-  font-size: 1.25em;
+  font-size: 1.2vw;
   font-weight: 500;
   color: #f1f1f1;
   display: block;
@@ -30,12 +30,12 @@ body {
 }
 
 .sideinfo h1 {
-  font-size: 2em;
+  font-size: 1.7vw;
   float: right;
   font-weight: 500;
   font-style: italic;
   color: #f1f1f1;
-  padding: 0% 5% 0% 0%;
+  padding: 2.5% 5% 0% 0%;
 }
 
 .sideinfo img {
