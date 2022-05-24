@@ -49,6 +49,7 @@ body {
 .main {
   margin-left: 20%;
   padding: 2% 5%;
+  color: #161616;
 }
 
 .main p {
@@ -72,5 +73,27 @@ body {
 .pdf {
   margin-left: 20%;
   padding: 2%;
+  text-align: center;
+}
+
+.gallery {
+  margin-left: 20%;
+  margin: 5px;
+  border: 1px solid #707070;
+  float: left;
+  width: 25%;
+}
+
+.gallery:hover {
+  border: 1px solid #161616;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+.desc {
+  padding: 15px;
   text-align: center;
 }
